@@ -1,4 +1,3 @@
-Project Structure
 Odin-grid/
 ├── reason.html
 ├── reasonstyle.css
@@ -8,7 +7,6 @@ Odin-grid/
 ├── Bird.jpg
 ├── Horse.jpg
 └── README.md
-
 Grit training for:
 
 How to use grid-template-columns and grid-template-rows to structure a full page layout
